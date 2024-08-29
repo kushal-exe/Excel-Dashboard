@@ -1,2 +1,2 @@
 # Excel-Dashboard
-A simple clean dashboard made by excel 
+A simple clean dashboard made through microsoft excel
